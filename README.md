@@ -37,7 +37,7 @@ ASP.NET Core API Browser is also very [handy](https://docs.microsoft.com/en-us/d
 
 ## How to run these samples
 
-To run these samples, simply open your command line console,  go to each folder and execute `dotnet watch run`.
+To run these samples, simply open your command line console,  go to each folder and execute ` dotnet watch run `.
 
 Most of the examples here uses `Microsoft.AspNetCore` package which is a package consisted of 
 
