@@ -10,7 +10,7 @@ Greetings from Cairo, Egypt. You can [sponsor](https://github.com/sponsors/dodyg
 
 ## Previous versions
 
-[6.0](https://github.com/dodyg/practical-aspnetcore/tree/net6.0/), [5.0](https://github.com/dodyg/practical-aspnetcore/tree/net5.0/), [3.1 LTS](https://github.com/dodyg/practical-aspnetcore/tree/3.1-LTS/), [2.1 LTS](https://github.com/dodyg/practical-aspnetcore/tree/2.1-LTS)
+[6.0](https://github.com/dodyg/practical-aspnetcore/tree/net6.0/), [5.0](https://github.com/dodyg/practical-aspnetcore/tree/net5.0/), [3.1 LTS](https://github.com/dodyg/practical-aspnetcore/tree/3.1-LTS/), [2.1-LTS](https://github.com/dodyg/practical-aspnetcore/tree/2.1-LTS)
 
 ## Sections
 
