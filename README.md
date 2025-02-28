@@ -63,7 +63,7 @@ Greetings from Cairo, Egypt. You can [sponsor](https://github.com/sponsors/dodyg
 
 For Data Access samples, go to the excellent [ORM Cookbook](https://github.com/Grauenwolf/DotNet-ORM-Cookbook). .NET team also has [a sample repository](https://github.com/dotnet/samples).
 
-## How to run these samples
+## How to run these samples with command 
 
 To run these samples, simply open your command line console, go to each folder and execute `dotnet watch run`.
 
